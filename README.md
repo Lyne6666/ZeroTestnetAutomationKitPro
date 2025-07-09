@@ -1,2 +1,1 @@
-# ZeroTestnetAutomationKitPro
-Advanced ZeroTestnetAutomationKitPro project
+.
